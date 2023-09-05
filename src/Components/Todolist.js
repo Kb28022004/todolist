@@ -76,7 +76,7 @@ const Todolist = () => {
       <div className="main-div">
         <div className="child-div">
           <figure>
-            <img src="" alt="" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uih-toZAIYvt2IInWImj_D0Gl68WvZvYOw&usqp=CAU" alt="" />
             <figcaption>Add Your List Here</figcaption>
           </figure>
           <div className="addItems">
